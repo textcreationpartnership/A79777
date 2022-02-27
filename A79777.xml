@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The church-vvardens repentance. Or, Mr. Connivvools recantation. VVherein is expressed his penitent sorrow, for oppression on the poores box. Likewise, his admonition to all covetous doctors, carelesse curates, charitable church-wardens, hypocriticll over-seers, bribe-taking constables, conniving headboroughs, dissembling sextons, and begger-whipping beadles. / Written by Thomas Tell-troth, by request of the said Mr. Conniwooll, who desires that his friendly admonitions may be accepted, of all those that would be esteemed free from his offences.</title>
+            <author>Tell-Troth, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79777</idno>
+            <idno type="STC">Wing C4276</idno>
+            <idno type="STC">Thomason E180_12</idno>
+            <idno type="STC">ESTC R12606</idno>
+            <idno type="EEBO-CITATION">99859307</idno>
+            <idno type="PROQUEST">99859307</idno>
+            <idno type="VID">111381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111381)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The church-vvardens repentance. Or, Mr. Connivvools recantation. VVherein is expressed his penitent sorrow, for oppression on the poores box. Likewise, his admonition to all covetous doctors, carelesse curates, charitable church-wardens, hypocriticll over-seers, bribe-taking constables, conniving headboroughs, dissembling sextons, and begger-whipping beadles. / Written by Thomas Tell-troth, by request of the said Mr. Conniwooll, who desires that his friendly admonitions may be accepted, of all those that would be esteemed free from his offences.</title>
+                  <author>Tell-Troth, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Thomason copy imperfect: significant show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conniwool, --  Mr. --  Early works to 1800.</term>
+               <term>Churchwardens' accounts --  England --  Early works to 1800.</term>
+               <term>Clergy --  Malpractice --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111381:1" rendition="simple:additions"/>
+            <p>THE CHURCH-VVARDENS REPENTANCE. <hi>OR</hi> M<hi rend="sup">r</hi> CONNIWOOLS RECANTATION.</p>
+            <p>VVherein is expreſſed his penitent ſor<g ref="char:EOLhyphen"/>row, for Oppreſſion on the Poores Box.</p>
+            <p>Likewiſe, His Admonition to all covetous Doctors, careleſſe Curates, Charitable Church-Wardens, Hypocriticall Over-ſeers, bribe-tak<g ref="char:EOLhyphen"/>ing Conſtables, conniving Headboroughs, diſſem<g ref="char:EOLhyphen"/>bling Sextons, and Begger-whipping Beadles.</p>
+            <p>Written by <hi>Thomas Tell-troth,</hi> by requeſt of the ſaid M<hi rend="sup">r</hi> 
+               <hi>Conniwooll,</hi> who deſires that his friendly Admonitions may be accepted, of all thoſe that <hi>would be eſteemed free from his offences.</hi>
+            </p>
+            <p>Printed in the Yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:111381:2"/>
+            <pb n="1" facs="tcp:111381:2"/>
+            <head>THE CHVRCH-WARDENS REPENTANCE.</head>
+            <sp>
+               <speaker>
+                  <hi>Trueman</hi> and <hi>Coniwooll.</hi>
+               </speaker>
+               <p>MAſter <hi>Trueman,</hi> welcome, I made bold to ſend for you about ſome ſpeciall affairs, which I hope will both content you, and benefit my almoſt condemned ſoul.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>Beleeve me M. <hi>Coniwoll,</hi> this news is very plea<g ref="char:EOLhyphen"/>ſing to me, and what I can perform, to gain content unto your dying ſame, ſhall be imployed at large.</p>
+            </sp>
+            <sp>
+               <speaker>Coniwoll.</speaker>
+               <p>Tis in your power, becauſe to you of late I made recitall of thoſe heinous crimes which then I thought were meritorious, therfore I thought it fit<g ref="char:EOLhyphen"/>teſt that you ſhould be a witneſſe of my penitence.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>I joy in the performance pray proceed</p>
+            </sp>
+            <sp>
+               <speaker>Coniwooll</speaker>
+               <p>I ſhall ſir, and as condemned men being brought to execution I confeſſe, I have deſerved to have
+<pb n="2" facs="tcp:111381:3"/>been hanged ſome eighteen times if I had had my due, for I have been the verieſt Jew that ever lived on earth. Some thirtie times I robd the poore mans box, and all the money I have ſpent in Sack, ſince I was five and twentie yeers of age, have I ob<g ref="char:EOLhyphen"/>tained by coſening and cheating.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>Indeed tis true you have been a cheating Raſchal, but do you now repent?</p>
+            </sp>
+            <sp>
+               <speaker>Coniwoll.</speaker>
+               <p>With all my heart, and I do meane hencefor<g ref="char:EOLhyphen"/>ward, if ever I come to be Churchwarden, to make the poore amends.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>With ſuch another.</p>
+            </sp>
+            <sp>
+               <speaker>Coniwooll.</speaker>
+               <p>O by no meanes, hence forth they ſhall have Coals at fourteen pence, Ile bate them the odd two pence. If any honeſt Gentleman or Knight be plea<g ref="char:EOLhyphen"/>ſed to make me his Executor, Ile pay them all their Legacies in groats, and get but one poore 12. pence in a pound.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>But will you be ſo honeſt?</p>
+            </sp>
+            <sp>
+               <speaker>Coniwooll.</speaker>
+               <p>Truly I, if any man would have my Coniwooll, Ile bate them ſix pence now in every pound, for I reſolve to be an honeſt man, and play the knave no more.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>Tis true indeed, you have uſed that trade too long.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:111381:3"/>
+               <speaker>Coniwooll.</speaker>
+               <p>Beſides I do forgive that honeſt man, ſirnamed <hi>Tom Teltroth,</hi> who a book did write, and made my faults aparant to the world, and wrought me to converſion.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>Indeed he was a very honeſt man, and you had need reward him.</p>
+            </sp>
+            <sp>
+               <speaker>Coniwooll.</speaker>
+               <p>The money likewiſe I hereafter gather upon Communion dayes, ſhall be beſtowed upon poore people, it ſhall never be ſhar'd amongſt the poore Churchwardens: Nor will I have any mentall re<g ref="char:EOLhyphen"/>ſervation when I cry, <hi>Pray remember the poore,</hi> meaning my ſelf and my brethren of the Veſtry, and not the poore of the Pariſh.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>Tis well reſolved, beleeve me neighbour <hi>Coni<g ref="char:EOLhyphen"/>wooll,</hi> this your repentance makes me wondrous glad, and to the world I will ſo plaine expreſſe it, that thoſe poore people, that before did flout you, ſhall now adore you, you ſhall no more be like a wandring ſtarre, but now be ſixt, and make your ſe<g ref="char:EOLhyphen"/>ven ſtars eight, which then ſhall ſhine, although now clouded, brightly and divine.</p>
+            </sp>
+            <sp>
+               <speaker>Coniwooll.</speaker>
+               <p>One thing more becauſe I deſire to give to the world a large teſtimonie of my repentance, I have framed by the help of Mr. <hi>Thomas Teltroth</hi> (whoſe friendſhip I eſteeme above my life) a friendly ad<g ref="char:EOLhyphen"/>monition to all my brethren, <hi>alias</hi> Veſtry men, from the greateſt to the leaſt, wherſoever diſperſt thorow
+<pb n="4" facs="tcp:111381:4"/>out the 3. kingdoms of <hi>England, Scotland,</hi> &amp; <hi>Ireland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>Pray let me hear it.</p>
+            </sp>
+            <sp>
+               <speaker>Coniwooll.</speaker>
+               <p>You ſhall ſir. Firſt I do admoniſh every covetous careleſſe Doctor, which eſteemes his profit, above his pulpit, thoſe that wil preach but once a moneth, and that too by reaſon that he will have his ſhare of the poores money which is gathered on Commu<g ref="char:EOLhyphen"/>nion daies, let me be your pattern, reſolve to be ho<g ref="char:EOLhyphen"/>neſt hereafter, preach once in a fortnight, although you make a repetition Sermon, rack not the bodies of your Pariſhioners, but feed their ſouls.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>A Chriſtian like admonition, Heaven grant they may have the grace to follow it.</p>
+            </sp>
+            <sp>
+               <speaker>Coniwooll.</speaker>
+               <p>Next I admoniſh everie Curate, to be officious in the performing the dutie belonging to his place and calling, and to be an upright man, not to take money of rich Heirs to make large praiſes of thoſe that are dead, which living were not praiſe-worthy, a crime neighbour to frequent amongſt ſome of our Curates and Lecturers.</p>
+               <p>Thirdly, I admoniſh every Sexton or Clark, ne<g ref="char:EOLhyphen"/>ver to connive or joyn with their covetous Doctor in the giving way to have private burials out of rich mens houſes, of the ſickneſſe and other infectious diſeaſes, onely to hide it from the world, for which they receive a great ſumme of money, ſhare it amongſt themſelves, which being done, the cl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk he cries, <hi>Amen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:111381:4"/>
+               <speaker>Trueman.</speaker>
+               <p>True indeed Maſter <hi>Conniwooll,</hi> too many of them cry Amen, when they have more need to cry A<g ref="char:EOLhyphen"/>mend; but ſhould they doe ſo, they would not be ſo rich, nor would they ſtrive ſo much for the place, and I beleeve it is more for love to the pro<g ref="char:EOLhyphen"/>fit that inſues by it, than any love they have to the religious office, meerely of the ſervice of God: But pray you proceed.</p>
+            </sp>
+            <sp>
+               <speaker>Coniwooll.</speaker>
+               <p>Fourthly, I admoniſh you and all my brethren Church-wardens and Overſeers of the poore, I be<g ref="char:EOLhyphen"/>ſeech you be overſeers for the poore, deale upright<g ref="char:EOLhyphen"/>ly, make no more five pound Suppers with the poores money, drinke no more pottles of Sacke at the Pariſh charge, buy your wives no more Taffata petty-coates, nor ten pound Gorgets with your weekly ſhares out of the poores box. Likewiſe, I beſeech you to be carefull Stewards at offerings, let a plaine paire of gloves given you by the bride-groome content you; take up no more Crownes to buy you fringe Gloves richly perfumed. Surely Brethren, I have found it to be true, that the richeſt perfume moſt ſtrangely doth conſume, and vaniſh away in a ſhort winters day, and inſtantly doth pe<g ref="char:EOLhyphen"/>riſh.</p>
+            </sp>
+            <sp>
+               <speaker>Trueman.</speaker>
+               <p>Truely Brother, a man may beleeve this to be true, becauſe you have had the tryall of all theſe things.</p>
+            </sp>
+            <sp>
+               <speaker>Coniwooll.</speaker>
+               <p>To my great griefe I have: but to the next. Like<g ref="char:EOLhyphen"/>wiſe all Conſtables, Headboroughs, and Beadles, let me admoniſh you to watch warily, leaſt you ve<g ref="char:EOLhyphen"/>rifie the old Proverb, <hi>Harme watch, harme catch;</hi>
+                  <pb n="6" facs="tcp:111381:5"/>truſt not to the eyes of your aſſociates, ſleepe not for feare you be taken napping, if a Gentleman and his Taffata-Laſſe in her Copper lace ruſſell by you, have a care ſhe put not our one of your eyes with a ſpangle, let them not goe ſcot-free, for if it be knowne, you will have no colour for it. Likewiſe, you Beadles that tyranniſe over a begger, and ſhake hands with a pick pocket, take heed, for though you have carried many a begger to Bridewell, ſuch Rogues will carry you to Tiburne, and then you will finde it better to have ſaid <hi>Stand theefe, than goe Beggar.</hi> So having finiſht my Admonitions, I reſt, hoping that my example will induce all my bre<g ref="char:EOLhyphen"/>thren Officers that know themſelves guiltie, to re<g ref="char:EOLhyphen"/>pent like me, for feare that <hi>Thomas Telleroth</hi> finde Imployment to anatomize their names, as he hath done mine. Thus leaving the honeſt Officers to their continuance in vertue, and the knaviſh Officers to amend, I reſt with this Proverb, Let none but the gald Horſe kicke, let none take my Admonition a<g ref="char:EOLhyphen"/>miſſe, but him that would proclaime himſelfe guil<g ref="char:EOLhyphen"/>tie of my offences.</p>
+               <q>
+                  <l>Let all amend, let every man abhorre</l>
+                  <l>So great a crime, as to deceive the poore;</l>
+                  <l>Be not ambitious, Office to obtaine;</l>
+                  <l>For juſtly by Church-Office none can gaine:</l>
+                  <l>Be faithfull Wardens, and your ſoules regard,</l>
+                  <l>An upright Steward cannot want reward;</l>
+                  <l>For the poores prayers, will daily mount the skies.</l>
+                  <l>And offer for your ſoules a Sacrifice,</l>
+                  <l>Acceptable to God, and you ſhall reſt</l>
+                  <l>(Happy on earth) in Heaven for ever bleſt.</l>
+               </q>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
